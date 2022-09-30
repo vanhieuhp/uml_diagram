@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T15:28:41.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="6Bh9yCM45EUf8gqWA-U8" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-30T15:45:11.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="W9_c4wJTDNriiqHWq6db" version="20.4.0" type="github" pages="3">
   <diagram id="bkou1C0aN43UMYxW7iGs" name="Page-1">
     <mxGraphModel dx="1207" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="idHudJW9djynEHginZZS" name="Page-2">
-    <mxGraphModel dx="691" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1858" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6YEqGLSUAU0SQHK4yLTO" name="Page-3">
-    <mxGraphModel dx="2685" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2530" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b9MY8EXe5JiXkmq6327a-60" value="Sơ đồ UseCase website tiếng anh" style="shape=umlFrame;whiteSpace=wrap;html=1;width=170;height=70;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-910" width="760" height="760" as="geometry" />
+          <mxGeometry x="290" y="-910" width="760" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kxu3SB9SmlebNBrADFx-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Đăng kí&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-438" width="160" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kxu3SB9SmlebNBrADFx-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1" target="5Kxu3SB9SmlebNBrADFx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="-480" as="sourcePoint" />
+            <mxPoint x="503.58352892753555" y="-501.1217378007095" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
