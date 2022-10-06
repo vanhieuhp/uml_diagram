@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T09:31:38.195Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="eFBdPKvFpA00UPpqw-FF" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-06T09:37:30.352Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sRPd-QB771kGEwNsfim0" version="20.4.0" type="github" pages="5">
   <diagram id="J3fb69sWYaiuu0WDrm8Q" name="Quản lý mượn trả">
     <mxGraphModel dx="1609" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -532,7 +532,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="[C]: library_management" id="kjjN_wn4j0si0T8yzmUR">
+  <diagram name="[C]: ecomerce_management" id="kjjN_wn4j0si0T8yzmUR">
     <mxGraphModel dx="3126" dy="2319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="w2zHCLQkWhmlivXcf8Hy-0" />
